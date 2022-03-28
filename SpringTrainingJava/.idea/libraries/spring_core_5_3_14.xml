@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spring-core-5.3.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/libs/new libs/spring-core-5.3.14.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libs/new libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libs/new libs/spring-expression-5.3.14.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libs/new libs/spring-context-5.3.14.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/libs/new libs/spring-beans-5.3.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
